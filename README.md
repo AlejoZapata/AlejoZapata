@@ -1,6 +1,6 @@
 <!-- Foto de perfil o banner central -->
 <p align="center">
-  <img src="./perfil.JPEG" width="160" style="border-radius: 50%;">
+  <img src="./perfil.jpeg" width="160" style="border-radius: 50%;">
 </p>
 
 <!-- Nombre -->
