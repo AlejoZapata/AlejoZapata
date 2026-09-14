@@ -4,7 +4,7 @@
 </p>
 
 <!-- Nombre -->
-<h1 align="center">TU NOMBRE Y APELLIDO</h1>
+<h1 align="center">Alejandro Zapata Quintero</h1>
 
 <!-- Subtítulo principal / Áreas clave -->
 <p align="center">
