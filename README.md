@@ -1,6 +1,6 @@
 <!-- Foto de perfil o banner central -->
 <p align="center">
-  <img src="./WhatsApp Image 2026-09-14 at 2.15.36 PM" alt="Foto de perfil" width="160" style="border-radius: 50%;">
+  <img src="./perfil.JPEG" width="160" style="border-radius: 50%;">
 </p>
 
 <!-- Nombre -->
