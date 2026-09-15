@@ -57,3 +57,30 @@ Adaptación y evaluación de una red neuronal **U-Net en PyTorch** para la segme
 Script de automatización en **Python** para la exploración del espacio de diseño en un procesador **Cortex-A76** usando **Gem5**. Implementa un algoritmo de **búsqueda local con muestreo aleatorio inicial** para optimizar el IPC/CPI variando el tamaño de caché L1D, caché L2 y entradas de la Reorder Buffer (ROB) evaluado sobre la carga `jpeg2k_dec`.
 
 `Gem5` `McPAT` `Python` `Cortex-A76` `Búsqueda Heurística` `Arquitectura de Computadores`
+## 🛠️ Stack tecnológico
+
+**Datos e IA**
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+
+**Modelos & Técnicas**
+`SVM` `CNN` `Autoencoders` `Procesamiento de Señales` `Morfología Matemática`
+
+**Embebidos y Hardware**
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/FreeRTOS-1A9E3C?style=flat-square&logo=freertos&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Gem5-00599C?style=flat-square&logoColor=white" />
+
+**Herramientas**
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
