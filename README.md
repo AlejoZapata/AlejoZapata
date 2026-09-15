@@ -28,7 +28,7 @@ Estudiante de 9.º semestre de Ingeniería Electrónica en la Universidad de Ant
 * 📡 **Intereses complementarios:** Telecomunicaciones y redes.
 ## 🚀 Proyectos destacados
 
-### [Sistema IoT de Refrigeración Inteligente](https://github.com/TU_USUARIO/TU_REPOSITTORIO_1)
+### [Sistema IoT de Refrigeración Inteligente]
 
 Sistema embebido basado en el microcontrolador **ESP32-S3** diseñado para el control térmico de bebidas sensibles (vinos y lácteos). Utiliza sensores **LM35** (temperatura) y **DHT22** (humedad) junto con actuadores como ventiladores y celdas Peltier para enfriamiento/calentamiento. Implementado bajo **FreeRTOS** mediante arquitectura basada en tareas y colas.
 
@@ -36,7 +36,7 @@ Sistema embebido basado en el microcontrolador **ESP32-S3** diseñado para el co
 
 ---
 
-### [Segmentación y Clasificación de Grietas en Asfalto](https://github.com/TU_USUARIO/TU_REPOSITTORIO_2)
+### [Segmentación y Clasificación de Grietas en Asfalto]
 
 Proyecto de investigación desarrollado en trabajo colaborativo con la **Alcaldía de Envigado**. Implementación de técnicas de **procesamiento digital de imágenes** con **OpenCV** y **morfología matemática** para la detección, segmentación y clasificación automatizada de grietas e imperfecciones en la malla vial.
 
@@ -44,7 +44,7 @@ Proyecto de investigación desarrollado en trabajo colaborativo con la **Alcald�
 
 ---
 
-### [Segmentación Binaria de Lesiones Cutáneas con U-Net](https://github.com/TU_USUARIO/TU_REPOSITTORIO_3)
+### [Segmentación Binaria de Lesiones Cutáneas con U-Net](https://github.com/AlejoZapata/ProyectoFinalDeepLearning)
 
 desarrollo, adaptacion y evaluación crítica de una red neuronal convolucional profunda basada
 en la arquitectura U-Net para la segmentacion automatizada de lesiones en la piel utilizando el dataset ISIC 2018. El modelo original,
@@ -53,7 +53,7 @@ inicialmente disenado para segmentación multiclase de elementos anatómicos en 
 
 ---
 
-### [Exploración de Microarquitectura y Búsqueda Heurística con Gem5](https://github.com/TU_USUARIO/TU_REPOSITTORIO_4)
+### [Exploración de Microarquitectura y Búsqueda Heurística con Gem5](https://github.com/TU_USUARIO/TU_REPOSITTORIO_4](https://github.com/ManuelSalaz/Arquitectura-Practica-I.git)
 
 Script de automatización en **Python** para la exploración del espacio de diseño en un procesador **Cortex-A76** usando **Gem5**. Implementa un algoritmo de **búsqueda local con muestreo aleatorio inicial** para optimizar el IPC/CPI variando el tamaño de caché L1D, caché L2 y entradas de la Reorder Buffer (ROB) evaluado sobre la carga `jpeg2k_dec`.
 
