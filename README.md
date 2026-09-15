@@ -53,7 +53,7 @@ inicialmente disenado para segmentación multiclase de elementos anatómicos en 
 
 ---
 
-### [Exploración de Microarquitectura y Búsqueda Heurística con Gem5](https://github.com/TU_USUARIO/TU_REPOSITTORIO_4](https://github.com/ManuelSalaz/Arquitectura-Practica-I.git)
+### [Exploración de Microarquitectura y Búsqueda Heurística con Gem5](https://github.com/ManuelSalaz/Arquitectura-Practica-I.git)
 
 Script de automatización en **Python** para la exploración del espacio de diseño en un procesador **Cortex-A76** usando **Gem5**. Implementa un algoritmo de **búsqueda local con muestreo aleatorio inicial** para optimizar el IPC/CPI variando el tamaño de caché L1D, caché L2 y entradas de la Reorder Buffer (ROB) evaluado sobre la carga `jpeg2k_dec`.
 
