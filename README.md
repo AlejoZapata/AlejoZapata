@@ -46,8 +46,11 @@ Proyecto de investigación desarrollado en trabajo colaborativo con la **Alcald�
 
 ### [Segmentación Binaria de Lesiones Cutáneas con U-Net](https://github.com/TU_USUARIO/TU_REPOSITTORIO_3)
 
-Adaptación y evaluación de una red neuronal **U-Net en PyTorch** para la segmentación automatizada de lesiones en la piel sobre el dataset **ISIC 2018**[cite: 1]. Incluye pipeline completo con binarización mediante vecino más cercano, optimización con **BCEWithLogitsLoss**, entrenamiento acelerado por GPU y análisis crítico de falsos negativos mediante el **coeficiente DICE** ($0.7077$ en validación)[cite: 1].
-
+desarrollo, adaptacion y evaluaci ´ on cr ´ ´ıtica de una red neuronal convolucional profunda basada
+en la arquitectura U-Net para la segmentacion automatizada de lesiones en la piel utilizando el dataset ISIC 2018. El modelo original, ´
+inicialmente disenado para segmentaci ˜ on multiclase de elementos anat ´ omicos en mascotas, fue reconfigurado hacia una tarea de ´
+segmentacion binaria estricta mediante modificaciones en la capa de salida, funciones de costo optimizadas y m ´ etricas de ´
+solapamiento espacia
 `PyTorch` `Deep Learning` `U-Net` `Visión por Computador` `ISIC 2018`
 
 ---
