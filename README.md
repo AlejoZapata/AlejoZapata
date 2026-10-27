@@ -28,7 +28,7 @@ Estudiante de 9.º semestre de Ingeniería Electrónica en la Universidad de Ant
 * 📡 **Intereses complementarios:** Telecomunicaciones y redes.
 ## 🚀 Proyectos destacados
 
-### [Sistema IoT de Refrigeración Inteligente]
+### [Sistema IoT de Refrigeración Inteligente](https://github.com/AlejoZapata/IoT)
 
 Sistema embebido basado en el microcontrolador **ESP32-S3** diseñado para el control térmico de bebidas sensibles (vinos y lácteos). Utiliza sensores **LM35** (temperatura) y **DHT22** (humedad) junto con actuadores como ventiladores y celdas Peltier para enfriamiento/calentamiento. Implementado bajo **FreeRTOS** mediante arquitectura basada en tareas y colas.
 
